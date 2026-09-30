@@ -1,0 +1,6 @@
+{
+  "name": "RAJ SAKHI LOAN",
+  "description": "Simple Loan EMI & Official Document Generator for Rajeevika loans with complete offline repayment schedules and printable official PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
